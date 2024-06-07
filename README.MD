@@ -25,7 +25,7 @@ Build docker image in your local computer, first run docker and run the command 
 Then, just run this app using: `docker run -p 5000:5000 nasa_daily_bot`
 
 
-## Free to use! Let's Explore!
+## Feel Free to use! Let's Explore!
 
  - Don't forget to star and share with your friends. Feel free to fork, edit, report issues, and discuss. 
 
