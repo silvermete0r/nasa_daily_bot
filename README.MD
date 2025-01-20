@@ -2,6 +2,8 @@
 
 **NASA Daily Bot** is a Telegram bot based on the NASA API, for research and obtaining up-to-date data from space in real time.
 
+![https://sun9-3.userapi.com/impg/4mzA93H0AOO1JVNJTT-FiOq5tiwgXCWf9eUE6w/3wNhkrIoUSs.jpg?size=1843x1310&quality=95&sign=e2ff8a78307d558178f2d6105860181f&type=album](https://sun9-3.userapi.com/impg/4mzA93H0AOO1JVNJTT-FiOq5tiwgXCWf9eUE6w/3wNhkrIoUSs.jpg?size=1843x1310&quality=95&sign=e2ff8a78307d558178f2d6105860181f&type=album)
+
 ## How to use?
 
 ### Step - 1
